@@ -1,11 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e5c5a07-403c-488e-b04f-ce2f580555bc" name="Changes" comment="" />
+    <list default="true" id="1e5c5a07-403c-488e-b04f-ce2f580555bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/entities/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ms-course-byCaio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ms-course-byCaio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/entities/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/entities/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/resources/PaymentResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/resources/PaymentResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/services/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/services/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/hrworker/HrWorkerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/hrworker/HrWorkerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/hrworker/resources/WorkerResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/hrworker/resources/WorkerResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/src/test/java/com/devsuperior/hrworker/HrWorkerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/test/java/com/devsuperior/hrworker/HrWorkerApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -13,9 +43,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2eh332M2QHZXc3mb89FoFcfZ88F" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,12 +55,50 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/WorkSpace/Pessoal/mscourse/ms-course-byCaio",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/WorkSpace/Pessoal/mscourse/ms-course-byCaio/hr-payroll",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.devsuperior.hrpayroll.entities" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HrWorkerApplication">
+    <configuration name="HrPayrollApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hr-payroll" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devsuperior.hrpayroll.HrPayrollApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HrWorkerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hr-worker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devsuperior.hrworker.HrWorkerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,6 +108,12 @@
       <option name="presentableId" value="Default" />
       <updated>1712342779163</updated>
       <workItem from="1712342780140" duration="13000" />
+      <workItem from="1712345351038" duration="650000" />
+      <workItem from="1712346299120" duration="22000" />
+      <workItem from="1712346336335" duration="174000" />
+      <workItem from="1712346581486" duration="10000" />
+      <workItem from="1712346675165" duration="34000" />
+      <workItem from="1712346791738" duration="1649000" />
     </task>
     <servers />
   </component>
