@@ -4,26 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e5c5a07-403c-488e-b04f-ce2f580555bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/entities/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ms-course-byCaio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ms-course-byCaio.iml" afterDir="false" />
+    <list default="true" id="1e5c5a07-403c-488e-b04f-ce2f580555bc" name="Changes" comment="RestTemplate">
+      <change afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/feignclients/WorkerFeignClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/entities/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/entities/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/resources/PaymentResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/resources/PaymentResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-payroll/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/HrPayrollApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/HrPayrollApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/services/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/services/PaymentService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/hrworker/HrWorkerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/hrworker/HrWorkerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/hrworker/resources/WorkerResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/hrworker/resources/WorkerResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/resources/data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/src/test/java/com/devsuperior/hrworker/HrWorkerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/test/java/com/devsuperior/hrworker/HrWorkerApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -47,30 +35,37 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2eh332M2QHZXc3mb89FoFcfZ88F" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/WorkSpace/Pessoal/mscourse/ms-course-byCaio/hr-payroll",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/WorkSpace/Pessoal/mscourse/ms-course-byCaio/hr-payroll&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.devsuperior.hrpayroll.entities" />
@@ -113,11 +108,37 @@
       <workItem from="1712346336335" duration="174000" />
       <workItem from="1712346581486" duration="10000" />
       <workItem from="1712346675165" duration="34000" />
-      <workItem from="1712346791738" duration="1649000" />
+      <workItem from="1712346791738" duration="4181000" />
+      <workItem from="1712524220895" duration="71000" />
+      <workItem from="1712543737018" duration="309000" />
     </task>
+    <task id="LOCAL-00001" summary="RestTemplate">
+      <option name="closed" value="true" />
+      <created>1712348635248</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712348635248</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="RestTemplate" />
+    <option name="LAST_COMMIT_MESSAGE" value="RestTemplate" />
   </component>
 </project>
